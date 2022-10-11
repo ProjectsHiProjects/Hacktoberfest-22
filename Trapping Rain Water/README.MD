@@ -21,6 +21,7 @@ Output: 9<br/>
 
 ### Constraints:
 
+
 n == height.length<br/>
 1 <= n <= 2 * 104<br/>
 0 <= height[i] <= 105<br/>
